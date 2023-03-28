@@ -5,11 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "InteractionSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/30228865315c4d45a3331d6dd14ee138"
-		},
-		{
 			"Name": "ReplicaLink",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/319ae183aabb405c8eb1011c130c10e9"
